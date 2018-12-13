@@ -1,2 +1,1 @@
-# SpringMvc
-SpringMVCTutorial
+My Project
